@@ -49,14 +49,14 @@ body{
     top: 10vh;
     text-align: center;
     color: white;
-    font-size:3vw;
+    font-size:8vw;
     font-weight: bolder;
 }
 .take{
     position:relative;
     top:15vh;
     left:50%;
-    transform: translateX(-15vw);
+    transform: translateX(-20vw);
     font-size: 1.5em;
     text-align: center;
     background: rgb(65, 65, 65);
