@@ -56,7 +56,7 @@ body{
     position:relative;
     top:25vh;
     left:50%;
-    transform: translateX(-40vw);
+    transform: translateX(-30vw);
     font-size: 2.5vh;
     text-align: center;
     background: rgb(65, 65, 65);
@@ -68,7 +68,7 @@ body{
     position:relative;
     top:30vh;
     left:50%;
-    transform: translateX(-50vw);
+    transform: translateX(-20vw);
     font-weight: bolder;
     color: white;
     background:rgb(65, 65, 65);
